@@ -30,8 +30,8 @@ namespace p44_Strings
             // 3. Create a Stringbuilder and build a paragraph of text, one sentence at a time.
             StringBuilder sb = new StringBuilder();
             sb.Append("You have my sword. ");
-            sb.Append("And my bow. ");
-            sb.Append("And my axe. ");
+            sb.Append("And you have my bow. ");
+            sb.Append("And my axe! ");
             Console.WriteLine("Here is an example of a StringBuilder: ");
             Console.WriteLine(sb.ToString());
             Console.ReadLine();
