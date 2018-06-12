@@ -3,49 +3,53 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p23 Writing and Running Code", "TTACSharpConsoleSolutions\p23 Writing and Running Code.csproj", "{D79A216E-DFDC-4E73-B7C4-E5EEC73692D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p023 Writing and Running Code", "TTACSharpConsoleSolutions\p023 Writing and Running Code.csproj", "{D79A216E-DFDC-4E73-B7C4-E5EEC73692D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p29 Variables and Data Types", "p29 Variables and Data Types\p29 Variables and Data Types.csproj", "{86D7B63D-10C0-4652-B156-FAD351DDF3A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p029 Variables and Data Types", "p29 Variables and Data Types\p029 Variables and Data Types.csproj", "{86D7B63D-10C0-4652-B156-FAD351DDF3A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p33 Math and Comparison Operations", "p33 Math and Comparison Operations\p33 Math and Comparison Operations.csproj", "{263D4EA5-E5C9-49AA-BF5B-1CA326711D4E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p033 Math and Comparison Operations", "p33 Math and Comparison Operations\p033 Math and Comparison Operations.csproj", "{263D4EA5-E5C9-49AA-BF5B-1CA326711D4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p34 Math and Comparison Operators II", "p34 Math and Comparison Operators II\p34 Math and Comparison Operators II.csproj", "{B10E76B1-1EE5-4FDB-BD45-2EBF5335BF0B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p034 Math and Comparison Operators II", "p34 Math and Comparison Operators II\p034 Math and Comparison Operators II.csproj", "{B10E76B1-1EE5-4FDB-BD45-2EBF5335BF0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p39 Branching", "p39 Branching\p39 Branching.csproj", "{673673CB-6A0E-4588-9F43-71B92ABF50A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p039 Branching", "p39 Branching\p039 Branching.csproj", "{673673CB-6A0E-4588-9F43-71B92ABF50A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p41 While and Do While Loops", "p41 While and Do While Loops\p41 While and Do While Loops.csproj", "{A1EFFCFC-FB1D-424C-ACD3-0FA5849CD385}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p041 While and Do While Loops", "p41 While and Do While Loops\p041 While and Do While Loops.csproj", "{A1EFFCFC-FB1D-424C-ACD3-0FA5849CD385}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p44 Strings", "p44 Strings\p44 Strings.csproj", "{CC4108E5-C17B-491A-A02E-F267F94BCF8D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p044 Strings", "p44 Strings\p044 Strings.csproj", "{CC4108E5-C17B-491A-A02E-F267F94BCF8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p47 Arrays and Lists", "p47 Arrays and Lists\p47 Arrays and Lists.csproj", "{ED80105F-0F5E-4DDD-9BB5-FA674B70DAD9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p047 Arrays and Lists", "p47 Arrays and Lists\p047 Arrays and Lists.csproj", "{ED80105F-0F5E-4DDD-9BB5-FA674B70DAD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p50 Iteration", "p50 Iteration\p50 Iteration.csproj", "{4E3B35B8-EA77-4CFF-BFF2-64CDD0608B10}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p050 Iteration", "p50 Iteration\p050 Iteration.csproj", "{4E3B35B8-EA77-4CFF-BFF2-64CDD0608B10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p53 Exception Handling", "p53 Exception Handling\p53 Exception Handling.csproj", "{509CEBE4-F222-422D-A413-8F93190DCBBA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p053 Exception Handling", "p53 Exception Handling\p053 Exception Handling.csproj", "{509CEBE4-F222-422D-A413-8F93190DCBBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p58 Classes and Methods", "p58 Classes and Methods\p58 Classes and Methods.csproj", "{30B318D2-8AF0-4348-B5E1-4AB03EA0E4B0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p058 Classes and Methods", "p58 Classes and Methods\p058 Classes and Methods.csproj", "{30B318D2-8AF0-4348-B5E1-4AB03EA0E4B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p60 More with Methods", "p60 More with Methods\p60 More with Methods.csproj", "{568B684F-E42A-4972-B5E2-88C9733E3853}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p060 More with Methods", "p60 More with Methods\p060 More with Methods.csproj", "{568B684F-E42A-4972-B5E2-88C9733E3853}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p61 More with Methods II", "p61 More with Methods II\p61 More with Methods II.csproj", "{1AF48D66-A9D2-4717-9CA4-1E9A0972F124}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p061 More with Methods II", "p61 More with Methods II\p061 More with Methods II.csproj", "{1AF48D66-A9D2-4717-9CA4-1E9A0972F124}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p62 More with Methods III", "p62 More with Methods III\p62 More with Methods III.csproj", "{157D1C87-1408-4FEC-9429-3076D5BCE98C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p062 More with Methods III", "p62 More with Methods III\p062 More with Methods III.csproj", "{157D1C87-1408-4FEC-9429-3076D5BCE98C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p64 Class Methods", "p64 Class Methods\p64 Class Methods.csproj", "{185E6AFC-30B9-41FD-BA0C-92F2F5E3CD76}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p064 Class Methods", "p64 Class Methods\p064 Class Methods.csproj", "{185E6AFC-30B9-41FD-BA0C-92F2F5E3CD76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p67 Inheritance", "p67 Inheritance\p67 Inheritance.csproj", "{1A96C9CB-6BBD-44BB-9CE2-1BCFA695CB73}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p067 Inheritance", "p67 Inheritance\p067 Inheritance.csproj", "{1A96C9CB-6BBD-44BB-9CE2-1BCFA695CB73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p72 Abstract Classes", "p72 Abstract Classes\p72 Abstract Classes.csproj", "{83847798-002D-4EC9-817E-E2DAE8E714CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p072 Abstract Classes", "p72 Abstract Classes\p072 Abstract Classes.csproj", "{83847798-002D-4EC9-817E-E2DAE8E714CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p74 Interfaces", "p74 Interfaces\p74 Interfaces.csproj", "{1899C5B7-C4DF-4B4E-B537-EBEF6BD40AC1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p074 Interfaces", "p74 Interfaces\p074 Interfaces.csproj", "{1899C5B7-C4DF-4B4E-B537-EBEF6BD40AC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p77 Operator Overloading", "p77 Operator Overloading\p77 Operator Overloading.csproj", "{02ECBD44-DC30-4515-9459-FE59FE956F83}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p077 Operator Overloading", "p77 Operator Overloading\p077 Operator Overloading.csproj", "{02ECBD44-DC30-4515-9459-FE59FE956F83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p79 Generics", "p79 Generics\p79 Generics.csproj", "{D9E8D564-6D4B-4E0C-97E3-BF6108A2824F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p079 Generics", "p79 Generics\p079 Generics.csproj", "{D9E8D564-6D4B-4E0C-97E3-BF6108A2824F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p82 Enums", "p82 Enums\p82 Enums.csproj", "{DD8AD5FE-6A7B-4CB0-B249-562F983EE62A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p082 Enums", "p82 Enums\p082 Enums.csproj", "{DD8AD5FE-6A7B-4CB0-B249-562F983EE62A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p85 Structs", "p85 Structs\p85 Structs.csproj", "{8EBF349C-5AD7-48AC-81BF-37688BDBC8DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p085 Structs", "p85 Structs\p085 Structs.csproj", "{8EBF349C-5AD7-48AC-81BF-37688BDBC8DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p088 Lambda Expressions", "p88 Lambda Expressions\p088 Lambda Expressions.csproj", "{3710D62A-B4D6-422F-92AB-BC82880AA5C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p102 File IO", "p102 File IO\p102 File IO.csproj", "{3D18F612-B254-4960-A49E-9A94ED63A06E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +145,14 @@ Global
 		{8EBF349C-5AD7-48AC-81BF-37688BDBC8DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EBF349C-5AD7-48AC-81BF-37688BDBC8DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EBF349C-5AD7-48AC-81BF-37688BDBC8DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3710D62A-B4D6-422F-92AB-BC82880AA5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3710D62A-B4D6-422F-92AB-BC82880AA5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3710D62A-B4D6-422F-92AB-BC82880AA5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3710D62A-B4D6-422F-92AB-BC82880AA5C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D18F612-B254-4960-A49E-9A94ED63A06E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D18F612-B254-4960-A49E-9A94ED63A06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D18F612-B254-4960-A49E-9A94ED63A06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D18F612-B254-4960-A49E-9A94ED63A06E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
