@@ -51,6 +51,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p088 Lambda Expressions", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p102 File IO", "p102 File IO\p102 File IO.csproj", "{3D18F612-B254-4960-A49E-9A94ED63A06E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p104 DateTime", "p104 DateTime\p104 DateTime.csproj", "{1A09CA26-92C8-4145-92B7-96CCD82AE902}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p111 Additional Features", "p111 Additional Features\p111 Additional Features.csproj", "{118EE3F6-BF87-46F3-9D57-516952228AF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p114 More on Exception Handling", "p114 More on Exception Handling\p114 More on Exception Handling.csproj", "{A5F0FBA5-9880-45E5-8625-342ED233E9D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{59E39B00-2D3A-4096-A107-31220D20FF58}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\TTA Director\NewC#Solutions\TTACSharpEssayResponses.doc = ..\..\..\Desktop\TTA Director\NewC#Solutions\TTACSharpEssayResponses.doc
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +164,18 @@ Global
 		{3D18F612-B254-4960-A49E-9A94ED63A06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D18F612-B254-4960-A49E-9A94ED63A06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D18F612-B254-4960-A49E-9A94ED63A06E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A09CA26-92C8-4145-92B7-96CCD82AE902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A09CA26-92C8-4145-92B7-96CCD82AE902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A09CA26-92C8-4145-92B7-96CCD82AE902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A09CA26-92C8-4145-92B7-96CCD82AE902}.Release|Any CPU.Build.0 = Release|Any CPU
+		{118EE3F6-BF87-46F3-9D57-516952228AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118EE3F6-BF87-46F3-9D57-516952228AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118EE3F6-BF87-46F3-9D57-516952228AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118EE3F6-BF87-46F3-9D57-516952228AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F0FBA5-9880-45E5-8625-342ED233E9D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F0FBA5-9880-45E5-8625-342ED233E9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F0FBA5-9880-45E5-8625-342ED233E9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F0FBA5-9880-45E5-8625-342ED233E9D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -23,8 +23,8 @@ namespace p44_Strings
             Console.WriteLine();
 
             // 2. Convert a string to uppercase.
-            Console.WriteLine("Here is that concatenated string converted to upper case:");
-            Console.WriteLine(result.ToUpper());
+            Console.WriteLine("Here is a string converted to upper case:");
+            Console.WriteLine("you had me at hello!".ToUpper());
             Console.WriteLine();
 
             // 3. Create a Stringbuilder and build a paragraph of text, one sentence at a time.
